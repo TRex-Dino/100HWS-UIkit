@@ -2,8 +2,7 @@
 //  TableViewController.swift
 //  Project5
 //
-//  Created by Yury Popov on 19/06/2019.
-//  Copyright © 2019 Yury Popov. All rights reserved.
+//  Created by Dmitry on 16.06.2021.
 //
 
 import UIKit
