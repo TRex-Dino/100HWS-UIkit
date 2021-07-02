@@ -1,2 +1,3 @@
-![](Project%203/Project%203/images/proj3.gif)
-![](Project%203/Project%203/images/proj3.gif)
+![](images/proj3.2.gif)
+![](images/proj3.gif)
+
