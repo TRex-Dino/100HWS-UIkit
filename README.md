@@ -27,3 +27,9 @@ use autolayout and code constraints
 
 ## Project 7. Day 33-35
 ![](Project%207/images/proj7.gif)
+
+## Project 8. Day 36-38
+![](Project%208/images/proj8.gif)
+
+## Project 9. Day 39-40
+Use async(), DispatchQueue.main. GCD
